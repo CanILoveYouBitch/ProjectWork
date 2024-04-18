@@ -1,0 +1,41 @@
+.link-550watt-200xjpg {
+  height: 193.3px;
+  width: 193.3px;
+  position: relative;
+  overflow: hidden;
+  flex-shrink: 0;
+  object-fit: cover;
+}
+.save-65 {
+  position: relative;
+  line-height: 14px;
+  font-weight: 500;
+  display: inline-block;
+  min-width: 60px;
+}
+.link-550watt-200xjpg-parent,
+.spanproduct-label2 {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.spanproduct-label2 {
+  margin: 0 !important;
+  position: absolute;
+  top: -9px;
+  left: -20px;
+  border-radius: 0 var(--br-10xs) var(--br-10xs) 0;
+  background-color: var(--color-red);
+  padding: var(--padding-9xs) var(--padding-3xs-3) var(--padding-9xs)
+    var(--padding-3xs);
+  white-space: nowrap;
+  z-index: 1;
+}
+.link-550watt-200xjpg-parent {
+  position: relative;
+  text-align: left;
+  font-size: var(--font-size-smi-7);
+  color: var(--color-white);
+  font-family: var(--font-inter);
+}
